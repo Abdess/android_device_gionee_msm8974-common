@@ -1,4 +1,4 @@
-Common device tree for Gionee devices
+Common tree for GIONEE MSM8974-based devices
 
-Copyright 2014, The CyanogenMod Project
+Copyright 2018, The CyanogenMod Project
 
